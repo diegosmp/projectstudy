@@ -102,8 +102,8 @@ body {
 }
 
 .imgGames img {
-    width: 12.5em;
-    height: 23.5em;
+    width: 12.5em; /* 200*/
+    height: 23.5em; /* 376*/
     object-fit: cover;
     border: 5px solid #AA6FC5;
     border-radius: 4px;
