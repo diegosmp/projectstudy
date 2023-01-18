@@ -15,7 +15,7 @@ body {
 .containerAll {
     display: flex;
     height: 85vh;
-    width: 100vw;
+    width: 100%;
 }
 
 .sidebar {
@@ -88,9 +88,9 @@ body {
     justify-content: space-between;
     position: relative;
     margin: 50px;
-    padding: 10px 100px;
     width: 65rem;
     height: 25rem;
+    overflow: hidden;
 }
 
 .imgGames {
@@ -99,6 +99,8 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding: 0 5px 0 5px;
+    
 }
 
 .imgGames img {
