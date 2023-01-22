@@ -1,0 +1,18 @@
+Bloco para informações do projeto e atualização do mesmo
+
+--- pt-Br ----
+Galera o projeto não foi abandonado, mal to fazendo os push por conta de tempo
+do dia a dia e tambem estou fazendo uns testes e apredendo cada fez mais sobre JS 
+para colocar da melhor forma e tambem deixar o codido o mais clearCode prossível.
+
+Então não pensem que abandonei, logo logo posto mais coisas.
+Beijos e abraços... =) :*
+
+
+---- en-US ----
+Guys, the project was not abandoned, I'm barely doing the pushes due to time
+day to day and I'm also doing some tests and learning more about JS
+to put it in the best way and also make the code as clearCode as possible.
+
+So don't think I abandoned it, soon I'll post more things.
+Kisses and hugs... =) :*
