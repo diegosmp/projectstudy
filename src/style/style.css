@@ -90,7 +90,7 @@ body {
     margin: 50px;
     width: 65rem;
     height: 25rem;
-    overflow: hidden;
+    /* overflow: hidden; */
 }
 
 .imgGames {
