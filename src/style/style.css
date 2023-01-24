@@ -110,7 +110,6 @@ body {
     border: 5px solid #AA6FC5;
     border-radius: 4px;
     box-shadow: 2px 2px 5px #AA6FC5;
-    transition: 400ms;
     cursor: pointer;
 }
 
@@ -120,10 +119,6 @@ a {
     font-size: 15px;
     text-align: center;
     text-decoration: none;
-}
-
-.imgGames img:hover {
-    transform: scale(1.5);
 }
 
 .footer {

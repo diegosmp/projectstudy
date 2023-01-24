@@ -30,16 +30,17 @@
                   tambem olhar por categoria clicando no menu ao lado.
             </span>
         </div>
-        <div class="slideGames">
+        <div class="slideGames" id="imgHover">
             <!-- start img -->
             <div class="imgGames" id="game1">
-                <img alt="Wild Rift Mobile" src="/src/img/wildRift.png" >
+                <img alt="Wild Rift Mobile" src="/src/img/wildRift.png" 
+                        onmouseenter='{() => this.event()}'>
                 <div class="spanImg">
                 <span> Wild Rift Mobile.<br>
                     <a href="#">Saber +</a></span>
                 </div>
             </div>
-            <div class="imgGames">
+            <div class="imgGames" id="game2">
                 <img alt="BattleField V" src="/src/img/battlefield.png" >
                 <div class="spanImg">
                     <span class="spanImg"> Battle Field V versão Desktop.<br>
@@ -47,14 +48,14 @@
                     </span>
                 </div>
             </div>
-            <div class="imgGames" id="game1">
+            <div class="imgGames" id="game3">
                 <img alt="TFT" src="/src/img/tftMobile.png" >
                 <div class="spanImg">
                 <span> Team fight Mobile.<br>
                     <a href="#">Saber +</a></span>
                 </div>
             </div>
-            <div class="imgGames">
+            <div class="imgGames" id="game4">
                 <img alt="Tarkov" src="/src/img/tarkov.png" >
                 <div class="spanImg">
                 <span> Tarkov<br>
@@ -70,5 +71,7 @@
     <span>Criado por Diêgo | <a href="https://github.com/diegosmp" target="_blank">GitHub</a></span>
 </div>
 
+    <!-- Script -->
+    <script src="./src/js/script.js"></script>
 </body>
 </html>
